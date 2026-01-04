@@ -75,6 +75,13 @@ The notebook covers the following steps:
 
 ---
 
+## Future Improvements
+
+- Incorporate additional or longitudinal clinical data to better capture disease progression trends  
+- Evaluate ensemble learning methods and perform further hyperparameter optimization  
+- Apply model interpretability techniques to improve clinical explainability  
+
+
 ## Disclaimer
 
 This project is for **educational and analytical purposes only**.  
